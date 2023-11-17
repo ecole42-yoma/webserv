@@ -10,10 +10,10 @@
 
 # Examples
 
-## compile
+## Compile
 
 
-## execute
+## Execute
 
 
 
